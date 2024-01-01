@@ -5,3 +5,5 @@
 
 ## currently learning:
 - Java+Rust
+
+- [x] Python
