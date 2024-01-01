@@ -6,5 +6,5 @@
 ## currently learning:
 - Java+Rust
 
-## Mastered
+## Mastered:
 - NOTHING 
