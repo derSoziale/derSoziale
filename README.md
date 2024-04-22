@@ -3,7 +3,7 @@
 - Arduino -> Esp32
 
 ## currently learning:
-- Java+Rust
+- C++ Rust
 
 ## Mastered:
 - NOTHING 
